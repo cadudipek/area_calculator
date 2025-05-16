@@ -12,9 +12,7 @@ O programa permite que o usuário escolha uma forma geométrica e calcule sua á
   - Triângulo
   - Círculo
 - Cálculo automático da área com base nos dados informados
-- Repetição automática do menu após cada cálculo
 - Opção para encerrar o programa
-- Validação de opções inválidas
 
 ## 🚀 Como usar
 
